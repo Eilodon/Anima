@@ -1,0 +1,7 @@
+{
+  "name": "ZenB 4.0",
+  "description": "A high-performance, minimalist guided breathing application. Production ready.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

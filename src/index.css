@@ -1,0 +1,16 @@
+
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  padding: 0;
+  overscroll-behavior: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+/* Ensure full viewport height on mobile */
+#root {
+  min-height: 100dvh;
+  min-height: -webkit-fill-available;
+}
